@@ -122,7 +122,7 @@ The objective is to transform raw HR data into a structured data model and deliv
 
 Advanced-Business-Intelligence-HR-Analytics/
 
-│── data/  
+ 
 │── pbix/ (Power BI file)  
 │── images/ (dashboard screenshots)  
 │── README.md  
